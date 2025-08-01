@@ -2,6 +2,8 @@
 
 A plugin for Obsidian that helps you import your notes from Dendron vault with automatic folder structure conversion from dot-notation hierarchy to traditional folder organization.
 
+> **🔄 Looking for the reverse?** Check out our [**Obsidian Dendron Importer VS Code Extension**](https://github.com/luisabellan/obsidian-dendron-importer) that imports Obsidian vaults into Dendron with automatic folder-to-dot-notation conversion!
+
 ## Features
 
 - 🗂️ **Automatic Folder Structure Creation** - Converts Dendron's dot-notation to organized folders
