@@ -1,7 +1,7 @@
 {
-	"name": "dendron-obsidian-importer",
+	"name": "dendron-importer",
 	"version": "1.0.0",
-	"description": "Import your Dendron vault notes into Obsidian with automatic folder structure conversion",
+	"description": "Import your Dendron vault notes with automatic folder structure conversion",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",

@@ -1,6 +1,6 @@
-# Dendron Obsidian Importer
+# Dendron Importer
 
-A plugin for Obsidian that helps you import your notes from Dendron vault with automatic folder structure conversion from dot-notation hierarchy to traditional folder organization.
+A plugin that helps you import your notes from Dendron vault with automatic folder structure conversion from dot-notation hierarchy to traditional folder organization.
 
 > **🔄 Looking for the reverse?** Check out our [**Obsidian Dendron Importer VS Code Extension**](https://github.com/luisabellan/obsidian-dendron-importer) that imports Obsidian vaults into Dendron with automatic folder-to-dot-notation conversion!
 
@@ -19,11 +19,11 @@ A plugin for Obsidian that helps you import your notes from Dendron vault with a
 1. Download the latest release from the [releases page](https://github.com/luisabellan/dendron-obsidian-importer/releases)
 2. Extract the plugin files to your vault's plugins folder:
    ```
-   VaultFolder/.obsidian/plugins/dendron-obsidian-importer/
+   VaultFolder/.obsidian/plugins/dendron-importer/
    ```
 3. Reload Obsidian and enable the plugin in Settings > Community Plugins
 
-### From Obsidian Community Plugins
+### From Community Plugins
 
 *Coming soon - pending approval*
 
@@ -95,7 +95,7 @@ vault/
 └── git.commands.cheatsheet.md
 ```
 
-### After (Obsidian)
+### After (Organized Structure)
 ```
 Imported from Dendron/
 ├── Courses/

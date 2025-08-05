@@ -1,9 +1,9 @@
 {
-	"id": "dendron-obsidian-importer",
-	"name": "Dendron Obsidian Importer",
+	"id": "dendron-importer",
+	"name": "Dendron Importer",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Import your Dendron vault notes into Obsidian with automatic folder structure conversion from dot-notation to folder hierarchy",
+	"description": "Import your Dendron vault notes with automatic folder structure conversion from dot-notation to folder hierarchy",
 	"author": "Luis Abellan",
 	"authorUrl": "https://github.com/luisabellan",
 	"isDesktopOnly": false
