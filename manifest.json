@@ -1,7 +1,7 @@
 {
 	"id": "dendron-importer",
 	"name": "Dendron Importer",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
 	"description": "Import your Dendron vault notes with automatic folder structure conversion from dot-notation to folder hierarchy",
 	"author": "Luis Abellan",
